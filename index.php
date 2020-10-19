@@ -7,6 +7,7 @@ get_template_part('header');
 ?>
 
 <div class="center-pane">
+<h1>Hey Dan!</h1>
 
 <div id="zoom-container">
 	<span class="heart">♡⚡️ </span><a target="_blank" class="zoom underline--dotted" href="https://digitallovelanguages.github.io/">LLLLandscapes of Love Webzine</a><br />
