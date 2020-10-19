@@ -9,7 +9,7 @@ get_template_part('header');
 <div class="center-pane">
 
 <div id="zoom-container">
-	<span class="heart">♡⚡️ </span><a target="_blank" class="zoom underline--dotted" href="https://digitallovelanguages.github.io/">Landscapes of Love Webzine</a><br />
+	<span class="heart">♡⚡️ </span><a target="_blank" class="zoom underline--dotted" href="https://digitallovelanguages.github.io/">LLLLandscapes of Love Webzine</a><br />
 	<span class="heart">♡⚡️ </span><a target="_blank" class="zoom underline--dotted" href="https://rcravago.github.io/handle-with-care/inner-package.html">Love Letter to Digital Love Languages</a><br />
 	<span class="heart">♡⚡️ </span><a target="_blank" class="zoom underline--dotted" href="https://rcravago.github.io/handle-with-care/inner-package.html">Digital Love Languages on Are.na</a><br />
 	
