@@ -7,57 +7,44 @@ get_template_part('header');
 ?>
 
 <div class="center-pane">
-<h1>Hey Dan!</h1>
 
-<div id="zoom-container">
-	<span class="heart">♡⚡️ </span><a target="_blank" class="zoom underline--dotted" href="https://digitallovelanguages.github.io/">LLLLandscapes of Love Webzine</a><br />
-	<span class="heart">♡⚡️ </span><a target="_blank" class="zoom underline--dotted" href="https://rcravago.github.io/handle-with-care/inner-package.html">Love Letter to Digital Love Languages</a><br />
-	<span class="heart">♡⚡️ </span><a target="_blank" class="zoom underline--dotted" href="https://rcravago.github.io/handle-with-care/inner-package.html">Digital Love Languages on Are.na</a><br />
-	
-</div>
+
 
 	<div>
 		<div class="star-container">
 		<div class="circle">
 			<div class="border"></div>
 		<div id="rsvp">
-		<span class="zoom">Sharing Sessions Recordings:</span>
-	<ul>
+		<span class="zoom">Cybernetics of Sex</span>
+	<!-- <ul>
 	<li>
 	<a target="_blank" class="zoom underline--dotted" href="https://www.youtube.com/watch?v=FyqOiIcCiaQ&t=398s">Tuesday</a>
 	</li>
 	<li>
 	<a target="_blank" class="zoom underline--dotted" href="https://www.youtube.com/watch?v=gAJ9akQceAA&t=3s">Wednesday</a>
 	</li>
-	</ul>
+	</ul> -->
 	</div>
 	
 	<!-- <div class="star-12"></div> -->
 </div>
 	</div>
 </div>
-	<img id="sharing-poster"src="<?php echo get_bloginfo('template_directory'); ?>/img/site.png"</img>
-	<img class="main-image" src=<?php echo get_bloginfo('template_directory'); ?>/img/dll.png></img>
+	<img id="sharing-poster"src="<?php echo get_bloginfo('template_directory'); ?>/img/poster2.png"</img>
 
 	<!-- wp:paragraph -->
 	<div class="description">
-<p>🦋&nbsp;&nbsp;Welcome to the online hub of Digital Love Languages, a 10 week online class at the <a href="https://sfpc.io/digitallove-spring2020/">School for Poetic Computation</a> stewarded by Melanie Hoff, Max Fowler, Adina Glickstein, and Amber Officer-Narvasa.<br />  <br />
-	🦋&nbsp;&nbsp;As our daily activities and closest relationships become increasingly bound up with corporate systems of surveillance and exploitation, let’s explore and cultivate code as a love language that can be gentle, healing, and intimate. How do we want to live in a post COVID-19 world, and what role do we want technology to play? Digital Love Languages: Codes of Affirmation is a class about building poetic tools for online communion through a re-introduction to computers. This class is also a call to action for expanding computation’s capacity for fostering interdependence and feeling.</p>
+<p>🦋&nbsp;&nbsp;Welcome to the online hub of Cybernetics of Sex, a 7 week online class at NYU ITP</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>🦋&nbsp;&nbsp;Together we will build small and personal software for affirming one another across physical distance. Technology will be unpacked as a social process, not only a logic or material, regarding code as a craft and medium capable of expressing the full range of feeling and desire.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>🦋&nbsp;&nbsp;This course covers the building blocks of programming and natural language processing using Python & Javascript in the browser. Networks of people and computers become fertile sites for ambient and playful communication. We will look to the history of the love letter as a form, from the&nbsp;<em class="special">quill</em>&nbsp;to the&nbsp;<em class="special">sext</em>.<br />
-Through coding with langugage and in the browser, we can facilitate a kind of care that happens in small moments of routine.</p>
+<p>What can cybernetics, the study of how we shape and are shaped by systems, teach us about the sexual and social reproduction of gender and sexism? How does sex become gender and what are the politics surrounding who gets reproduced? We will explore how social regulatory systems are encoded into technological platforms and disentangle how they produce social pressure and govern behavior through somatic exercises, discussion, and project making. In this class, we will not shy away from difficult conversations and work closely together to cultivate a space of openness and mutual support. Discussion and project-making is core to this class. Together we will read the work of scholars such as Donna Haraway, Ruha Benjamin, Paul Preciado, Silvia Federici, & Audre Lorde. Along with lecture, discussion, and in class activities, students will be encouraged to explore their own research interests and personal histories. When projects are discussed, we will practice communicating ideas through presentation as a medium and will co-create a culture of constructive feedback.↝</p>
 <br /><br />
 <p>
 	<a class="big-link" href="/syllabus">Syllabus</a>
 </p>
 <br /><br />
-<p class="special">🩸&nbsp;&nbsp;What if all the software we used was made by people who love us?</p>
+<p class="special">🩸&nbsp;&nbsp;What if all our software was made by people who love us?</p>
 	</div>
 <!-- /wp:paragraph -->
 </div>
