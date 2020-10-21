@@ -10,32 +10,32 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap" rel="stylesheet">
-		<link rel="icon" type="image/png" sizes="32x32" href="<?php echo get_bloginfo('template_directory'); ?>/favicon-32x32.png">
-		<link rel="shortcut icon" href="<?php echo get_bloginfo('template_directory'); ?>/favicon.ico" />
-		<link rel="icon" type="image/png" sizes="16x16" href="<?php echo get_bloginfo('template_directory'); ?>/favicon-16x16.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="<?php echo get_bloginfo('template_directory'); ?>/img/box.ico">
+		<link rel="shortcut icon" href="<?php echo get_bloginfo('template_directory'); ?>/img/box.ico" />
+		<link rel="icon" type="image/png" sizes="16x16" href="<?php echo get_bloginfo('template_directory'); ?>/img/box.ico">
 		<link rel="manifest" href="/site.webmanifest">
 		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#ffffff">
 
 
 		<!-- Primary Meta Tags -->
-<title>digital love languages</title>
-<meta name="title" content="digital love languages">
-<meta name="description" content="">
+<title>Cybernetics of Sex</title>
+<meta name="title" content="Cybernetics of Sex">
+<meta name="description" content=""> 
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://lovelanguages.melaniehoff.com/">
-<meta property="og:title" content="digital love languages">
-<meta property="og:description" content="A 10 weeks course exploring code as a practice that can be gentle, healing, & loving">
+<meta property="og:url" content="http://cyberneticsofsex.melaniehoff.com">
+<meta property="og:title" content="Cybernetics of Sex">
+<meta property="og:description" content="">
 <meta property="og:image" content="<?php echo get_bloginfo('template_directory'); ?>/img/meta.png">
 
 <!-- TODO -->
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="http://lovelanguages.melaniehoff.com/">
-<meta property="twitter:title" content="digital love languages">
-<meta property="twitter:description" content="A 10 weeks course exploring code as a practice that can be gentle, healing, & loving">
+<meta property="twitter:url" content="http://cyberneticsofsex.melaniehoff.com">
+<meta property="twitter:title" content="Cybernetics of Sex">
+<meta property="twitter:description" content="">
 <meta property="twitter:image" content="<?php echo get_bloginfo('template_directory'); ?>/img/meta.png">
 </head>
 

@@ -31,7 +31,7 @@ get_template_part('header');
             }
             else {
 
-                echo '<p class="table-of-contents">Digital Love Languages ♡ Blog</p><img class="blog" id="blog" src="https://i.imgur.com/m9ldhSp.png"></img>';
+                echo '<p class="table-of-contents">Cybernetics of Sex ✧ Blog</p><img class="blog" id="blog" src=""></img>';
 
 
 

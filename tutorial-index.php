@@ -32,7 +32,7 @@ get_template_part('head');
             else {
 
 
-                  echo '<a href="http://lovelanguages.melaniehoff.com/notes/"><img class="notes" src="https://i.imgur.com/PuVZTvX.jpg"></img></a><p class="private">Private Notes</p>';
+                //   echo '<a href="http://lovelanguages.melaniehoff.com/notes/"><img class="notes" src="https://i.imgur.com/PuVZTvX.jpg"></img></a><p class="private">Private Notes</p>';
 
                 // <p class="table-of-contents"> Lessons, Information, Materials</p>
 

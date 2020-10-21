@@ -10,26 +10,24 @@ get_template_part('header');
 
 
 
-	<div>
+	<!-- <div>
 		<div class="star-container">
 		<div class="circle">
 			<div class="border"></div>
 		<div id="rsvp">
 		<span class="zoom">Cybernetics of Sex</span>
-	<!-- <ul>
+	<ul>
 	<li>
 	<a target="_blank" class="zoom underline--dotted" href="https://www.youtube.com/watch?v=FyqOiIcCiaQ&t=398s">Tuesday</a>
 	</li>
 	<li>
 	<a target="_blank" class="zoom underline--dotted" href="https://www.youtube.com/watch?v=gAJ9akQceAA&t=3s">Wednesday</a>
 	</li>
-	</ul> -->
-	</div>
-	
-	<!-- <div class="star-12"></div> -->
-</div>
+	</ul>
 	</div>
 </div>
+	</div>
+</div> -->
 	<img id="sharing-poster"src="<?php echo get_bloginfo('template_directory'); ?>/img/poster2.png"</img>
 
 	<!-- wp:paragraph -->
