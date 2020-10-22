@@ -28,11 +28,11 @@ get_template_part('header');
 </div>
 	</div>
 </div> -->
-	<img id="sharing-poster"src="<?php echo get_bloginfo('template_directory'); ?>/img/poster2.png"</img>
+	<img id="sharing-poster"src="<?php echo get_bloginfo('template_directory'); ?>/img/poster3.png"</img>
 
 	<!-- wp:paragraph -->
 	<div class="description">
-<p>🦋&nbsp;&nbsp;Welcome to the online hub of Cybernetics of Sex, a 7 week online class at NYU ITP</p>
+<p>💧&nbsp;&nbsp;Welcome to the online hub of Cybernetics of Sex, a 7 week online class at NYU ITP</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -42,7 +42,7 @@ get_template_part('header');
 	<a class="big-link" href="/syllabus">Syllabus</a>
 </p>
 <br /><br />
-<p class="special">🩸&nbsp;&nbsp;What if all our software was made by people who love us?</p>
+<!-- <p class="special">🩸&nbsp;&nbsp;What if all our software was made by people who love us?</p> -->
 	</div>
 <!-- /wp:paragraph -->
 </div>

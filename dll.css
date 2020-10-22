@@ -55,6 +55,8 @@ span a:visited {
   left: 3.2em;
 }
 
+
+
 /* @-moz-document url-prefix() {
   .circle {
     margin-top: 1em;
@@ -64,11 +66,12 @@ span a:visited {
   #sharing-poster {
     margin-top: 16em;
   }
-}
-
-#sharing-poster {
-  margin-top: 14em;
 } */
+
+ #sharing-poster {
+  /* display: none; */
+  padding-bottom: 8em;
+} 
 
 #zoom-container {
   font-size: 1.6em;
@@ -801,9 +804,9 @@ ul {
     left: 23em;
   }
 
-  #sharing-poster {
+  /* #sharing-poster {
     margin-top: 16em;
-  }
+  } */
 }
 
 
@@ -834,9 +837,9 @@ ul {
       left: 1em;
     }
 
-    #sharing-poster {
+    /* #sharing-poster {
       margin-top: 16em;
-    }
+    } */
 }
 }
 
