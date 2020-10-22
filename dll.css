@@ -337,6 +337,8 @@ a.accordion {
   margin: 1.3em;
   position: fixed;
   padding: .2em;
+    background-color: var(--main-bg);
+
 }
 
 .top-right {
@@ -355,6 +357,11 @@ a.accordion {
   padding-right: 16px;
 }
 
+.top-right, .bottom-right {
+  right: .5em;
+  background-color: var(--main-bg);
+}
+
 .bottom-right, .bottom-left {
   position: fixed;
   bottom: .8em;
@@ -362,11 +369,10 @@ a.accordion {
   margin-right: 1.4em;
   margin-left: 1.4em;
   padding: .2em;
+  background-color: var(--main-bg);
 }
 
-.top-right, .bottom-right {
-  right: .5em;
-}
+
 
 .bottoms {
   width: 52px;
@@ -478,19 +484,19 @@ img {
 }
 
 a {
-  color: #fcd0fb;
+  color: blue;
 }
 
 ul a {
-  color: #fcd0fb;
+  color: blue;
 }
 
 ul a:visited {
-  color: #fcd0fb;
+  color: blue;
 }
 
 ul a:hover {
-  color: blue;
+  color: yellow;
 }
 
 .post-link {
@@ -498,7 +504,7 @@ ul a:hover {
 }
 
 .post-link a span {
-  color: #ffffff;
+  color: black;
   font-size: 2em;
   /* font-family: VG5000; */
   font-style: italic;
@@ -538,7 +544,7 @@ ul a:hover {
 } */
 .lesson-link a span {
   font-family: var(--small-title);
-  color: var(--text-col);
+  color: blue;
   font-size: 2em;
   display: block;
   margin-bottom: .1em;
