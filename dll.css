@@ -461,8 +461,12 @@ p {
   margin-bottom: 15px;
 }
 
-p a {
+/* p a {
   color: #fcd0fb;
+} */
+
+p a:hover {
+  color: blue;
 }
 
 a, a:visited {
